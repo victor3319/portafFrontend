@@ -1,0 +1,80 @@
+#principal{
+    width:1000px;
+    margin:auto;
+}
+
+#navegacion{
+    width:1000px;
+    height:50px;
+    background: #3964F3;
+}
+    #navegacion ul{
+        text-align: center;
+        padding-top: 15px;
+    }
+    #navegacion li{
+        display:inline;
+        margin-right: 10px;
+    }
+
+    #navegacion a{
+        color:#fff;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    #foto{
+        width: 420px;
+        height: 750 px;
+        float: left;
+        margin-left: 80px;
+    }
+
+    #mi{
+        width: 500px;
+        height: 750 px;
+        text-align:justify;
+        float: left;
+    }
+
+    #nivel{
+        clear: both;
+        
+    }
+
+    #JS{
+        float: left;
+        margin-right: 70px;
+    }
+    #HTML{
+        float: left;
+        margin-right: 70px;
+    }
+    #CSS{
+        float: left;
+        margin-right: 70px;
+    }
+    #git{
+        float: left;
+        margin-right: 70px;
+    }
+    #github{
+        float: left;
+        margin-right: 70px;
+    }
+
+    #formacion{
+        clear: both;
+    }
+
+    #educacion{
+        margin-top: 30px;
+        float: left;
+        width: 500px;
+    }
+
+    #experiencia{
+        margin-top: 30px;
+        float: left;   
+        width: 500px;
+    }
